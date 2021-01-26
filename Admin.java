@@ -4,6 +4,7 @@ public class Admin{
 		System.out.println("Hello World");
 		System.out.println("小孙今天使用了git工具");
 		System.out.println("小孙今天使用了git工具, 使用很不顺利");
+		System.out.println("小孙今天使用了git可视化管理工具，第一次操作！！！");
 	}
 	
 }
