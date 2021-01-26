@@ -2,9 +2,10 @@ public class Admin{
 	
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("Ğ¡Ëï½ñÌìÊ¹ÓÃÁËgit¹¤¾ß");
-		System.out.println("Ğ¡Ëï½ñÌìÊ¹ÓÃÁËgit¹¤¾ß, Ê¹ÓÃºÜ²»Ë³Àû");
-		System.out.println("Ğ¡Ëï½ñÌìÊ¹ÓÃÁËgit¿ÉÊÓ»¯¹ÜÀí¹¤¾ß£¬µÚÒ»´Î²Ù×÷£¡£¡£¡");
+		System.out.println("å°å­™ä»Šå¤©ä½¿ç”¨äº†gitå·¥å…·");
+		System.out.println("å°å­™ä»Šå¤©ä½¿ç”¨äº†gitå·¥å…·, ä½¿ç”¨å¾ˆä¸é¡ºåˆ©");
+		System.out.println("å°å­™ä»Šå¤©ä½¿ç”¨äº†gitå¯è§†åŒ–ç®¡ç†å·¥å…·ï¼Œç¬¬ä¸€æ¬¡æ“ä½œï¼ï¼ï¼");
+		System.out.println("å°å­™ä½¿ç”¨githubwebç•Œé¢ä¿®æ”¹äº†Admin.javaæ–‡ä»¶ï¼Œç¬¬äºŒæ¬¡æ“ä½œï¼ï¼ï¼");
 	}
 	
 }
